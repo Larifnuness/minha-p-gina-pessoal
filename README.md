@@ -1,2 +1,2 @@
-# minha-p-gina-pessoal
+# minha-pagina-pessoal
 projetos versionamento
